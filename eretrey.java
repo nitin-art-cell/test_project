@@ -71,7 +71,7 @@ System.out.println(ob1.a+ob1.b+c);
 		
 /*		int a, b;
 	   int c=a+b
-		System.out.println("taken no from the user");
+		System.out.println("take no from the user");
 		Scanner sc=new Scanner(System.in);
 		String name=sc.next();
 		System.out.println("please enter the first number");
