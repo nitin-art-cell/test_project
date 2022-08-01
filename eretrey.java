@@ -31,7 +31,7 @@ System.out.println(ob1.a+ob1.b+c);
 	}
 }    */
 
-class AB
+/*class AB
 {
 	int a=5,b=3,c=4;
 	static int d=5,e=6;
@@ -51,7 +51,7 @@ class AB
 	A ob2=new A();
 	System.out.println(ob2.a+ob2.b+ob2.c+d+e);
 	}
-}
+}  */
 
 
 		
@@ -65,7 +65,7 @@ class AB
 		
 		
 		
-		//System.out.println("hello mr. nitin");
+		System.out.println("hello nitin");
 
 // write a program for the two no addition by the help of user input two no:
 		
