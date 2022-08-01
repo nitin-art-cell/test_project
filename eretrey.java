@@ -219,7 +219,7 @@ try
 }
 		catch(ArithmeticException e)
 {
-			System.out.println("you can't devide with zero");
+			System.out.println("you can't devided with zero");
 }
 	//	System.out.println("end of catch block");
 		
