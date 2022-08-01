@@ -131,7 +131,7 @@ System.out.println(ob1.a+ob1.b+c);
 		System.out.println("nice to meet you");
 		
 		
-			System.out.println("please enter your  name");
+			System.out.println("please enter your nice  name");
 		Scanner sc=new Scanner(System.in);
 		String name=sc.next();
 		System.out.println("  hii "  +  name);
